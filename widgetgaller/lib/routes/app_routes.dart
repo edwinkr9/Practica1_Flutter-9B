@@ -1,6 +1,3 @@
-import 'dart:js';
-
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:widgetgaller/models/item_menu.dart';
 import 'package:widgetgaller/screens/home_screen.dart';
